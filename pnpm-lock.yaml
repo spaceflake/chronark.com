@@ -1,9 +1,6 @@
 lockfileVersion: '6.0'
 
 dependencies:
-  '@next/font':
-    specifier: ^13.4.3
-    version: 13.4.3
   '@next/mdx':
     specifier: ^13.4.3
     version: 13.4.3
@@ -636,10 +633,6 @@ packages:
 
   /@next/env@13.4.4:
     resolution: {integrity: sha512-q/y7VZj/9YpgzDe64Zi6rY1xPizx80JjlU2BTevlajtaE3w1LqweH1gGgxou2N7hdFosXHjGrI4OUvtFXXhGLg==}
-    dev: false
-
-  /@next/font@13.4.3:
-    resolution: {integrity: sha512-plrCwj4s9fjjcMdkAo+MAVkKuSemRz6XLcow6RdkesEfNyfSD8eMU9+rR3khrXnCZ9zjsf9mcPG5ubvqDXU0mg==}
     dev: false
 
   /@next/mdx@13.4.3:
